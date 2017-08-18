@@ -1,8 +1,8 @@
 {
-  "name": "Telegram",
-  "description": "Telegram Web App.\nMore info & source code here: https://github.com/zhukov/webogram",
+  "name": "Chatkar Cyberian.pk",
+  "description": "Chatkar Cyberian.pk Web App.\nMore info & source code here: https://github.com/zaasmi/chatkar",
   "version": "0.6.0",
-  "short_name": "Telegram",
+  "short_name": "Chatkar",
   "manifest_version": 2,
   "app": {
     "background": {
