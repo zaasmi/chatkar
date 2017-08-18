@@ -1,12 +1,12 @@
 {
-  "name": "Telegram",
-  "description": "Telegram Web App.\nMore info & source code here: https://github.com/zhukov/webogram",
+  "name": "Chatkar",
+  "description": "Chatkar Cyberian Web App.\nMore info & source code here: https://github.com/zaasmi/chatkar",
   "version": "0.6.0",
   "type": "privileged",
   "launch_path": "/index.html",
   "developer": {
-    "name": "Igor Zhukov",
-    "url": "https://github.com/zhukov"
+    "name": "Zaasmi",
+    "url": "https://github.com/zaasmi"
   },
   "installs_allowed_from": [
     "*"
